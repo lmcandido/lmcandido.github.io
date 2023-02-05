@@ -15,6 +15,7 @@ body{
 
 .navbar{
     position: absolute;
+    text-decoration: none;
     right: 0;
     top: 0;
 }
