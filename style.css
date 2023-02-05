@@ -9,6 +9,10 @@ body{
     background-position: center;
 }
 
+.header img{
+    left: 200;
+}
+
 .navbar{
     position: absolute;
     right: 30px;
@@ -27,4 +31,5 @@ body{
 main img{
     height: 100px;
     width: 200px;
+    left: 200;
 }
