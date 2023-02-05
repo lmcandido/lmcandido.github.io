@@ -8,3 +8,9 @@ body{
 .header{
     font-weight: bold;
 }
+
+.navbar{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
