@@ -15,10 +15,12 @@ body{
 
 .navbar{
     position: absolute;
-    right: 0;
+    right: 30px;
     top: 0;
 }
 
 .navbar a{
     text-decoration: none;
+    color: grey;
+
 }
