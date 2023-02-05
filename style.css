@@ -9,11 +9,6 @@ body{
     background-position: center;
 }
 
-.header img{
-    height: 200px;
-    width: 500px
-}
-
 .navbar{
     position: absolute;
     right: 30px;
@@ -24,4 +19,9 @@ body{
     text-decoration: none;
     color: grey;
 
+}
+
+main img{
+    height: 100px;
+    width: 200px;
 }
