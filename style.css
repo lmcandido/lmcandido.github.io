@@ -9,8 +9,9 @@ body{
     background-position: center;
 }
 
-.header{
-    font-weight: bold;
+.header img{
+    height: 200px;
+    width: 500px
 }
 
 .navbar{
