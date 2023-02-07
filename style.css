@@ -33,5 +33,6 @@ main img{
     height: 200px;
     width: 700px;
     float: right;
-    margin-left: 100px;
+    margin-left: 30px;
+    margin-top: 40px;
 }
