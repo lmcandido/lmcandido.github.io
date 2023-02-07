@@ -10,7 +10,7 @@ body{
 }
 
 .header img{
-    left: 200;
+    float: left;
 }
 
 .navbar{
