@@ -10,7 +10,8 @@ body{
 }
 
 .header img{
-    float: left;
+    float: right;
+    margin-left: 100px;
 }
 
 .navbar{
@@ -31,5 +32,6 @@ body{
 main img{
     height: 200px;
     width: 700px;
-    float: left;
+    float: right;
+    margin-left: 100px;
 }
