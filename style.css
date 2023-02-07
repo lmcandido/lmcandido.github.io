@@ -31,5 +31,5 @@ body{
 main img{
     height: 250px;
     width: 480px;
-    left: 200;
+    margin-left: auto;
 }
