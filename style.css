@@ -10,8 +10,8 @@ body{
 }
 
 .header img{
-    float: right;
     margin-left: 100px;
+    margin-top: 80;
 }
 
 .navbar{
