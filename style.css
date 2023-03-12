@@ -17,6 +17,7 @@ body{
 .navbar{
     font-size: medium;
     display: inline-block;
+    justify-content: space-between;
 }
 
 .navbar a{
