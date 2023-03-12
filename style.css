@@ -12,6 +12,7 @@ body{
 .header img{
     margin-left: 100px;
     margin-top: 70px;
+    vertical-align: middle;
 }
 
 .navbar{
