@@ -11,14 +11,13 @@ body{
 
 .header img{
     margin-left: 100px;
-    margin-top: 80;
+    margin-top: 80px;
 }
 
 .navbar{
-    position: absolute;
-    right: 30px;
-    top: 0;
-    font-size: 12px;
+    font-size: medium;
+    margin-right: 100px;
+    margin-top: 80px;
     padding-left: 10px;
     padding-right: 10px;
 }
