@@ -16,6 +16,7 @@ body{
 
 .navbar{
     font-size: medium;
+    float: right;
 }
 
 .navbar a{
