@@ -17,12 +17,12 @@ body{
 .navbar{
     font-size: medium;
     display: inline-block;
+    margin-left: 500px;
 }
 
 .navbar a{
     text-decoration: none;
     color: grey;
-    justify-content: space-between;
 
 }
 
