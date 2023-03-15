@@ -49,3 +49,39 @@ main img{
     font-family: Arial, Helvetica, sans-serif;
     color: orange;
 }
+
+.container2{
+    color: white;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container3{
+    color:grey;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container4{
+    color:white;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container5{
+    color: grey;
+    font-size:small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container6{
+    color:white;
+    font-size:medium;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container7{
+    color: grey;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
