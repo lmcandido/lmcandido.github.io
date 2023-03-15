@@ -38,7 +38,7 @@ main img{
     width: 650px;
     margin-left: 100px;
     margin-top: 50px;
-    vertical-align: middle;
+    vertical-align: top;
 }
 
 .container1{
@@ -46,7 +46,7 @@ main img{
     background-color: black;
     width: 250px;
     height: 330px;
-    vertical-align: middle;
+    vertical-align: top;
 }
 
 .container8{
