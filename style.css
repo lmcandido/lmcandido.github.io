@@ -65,6 +65,7 @@ main img{
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
+    padding-bottom: 10px;
 }
 
 .container3{
@@ -77,6 +78,8 @@ main img{
     color:white;
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+    padding-bottom: 10px;
 }
 
 .container5{
@@ -89,6 +92,8 @@ main img{
     color:white;
     font-size:medium;
     font-family:Arial, Helvetica, sans-serif;
+    padding-top: 100px;
+    padding-bottom: 10px;
 }
 
 .container7{
