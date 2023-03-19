@@ -109,11 +109,9 @@ main img{
     font-weight: bold;
     font-size: xx-large;
     margin-left:100px;
-    display: inline-block;
 }
 
 .dive{
-    display: inline-block;
     color: grey;
     font-size: small;
     margin-left: 200px;
