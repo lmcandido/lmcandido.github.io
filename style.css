@@ -42,7 +42,7 @@ main img{
 }
 
 .container1{
-    display: flex;
+    display: inline-block;
     background-color: black;
     width: 280px;
     height: 450px;
