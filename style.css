@@ -116,4 +116,5 @@ main img{
     color: grey;
     font-size: small;
     margin-left: 200px;
+    display: inline-block;
 }
