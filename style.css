@@ -35,6 +35,10 @@ body{
 
 .mainimg{
     background-image: url(./assets/images/image-web-3-mobile.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% auto;
+    block-size: 300px;
 }
 
 .container1{
