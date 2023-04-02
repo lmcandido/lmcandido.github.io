@@ -34,7 +34,7 @@ body{
 }
 
 .mainimg{
-    background-image: url(./assets/images/image-web-3-mobile.jpg);
+    background-image: url(../images/image-web-3-mobile.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% auto;
