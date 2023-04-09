@@ -85,7 +85,10 @@ body{
 @media (min-width: 768px){
     main{
         display: grid;
-        grid-template-areas: "nav nav" "header new" "items items";
+        grid-template-areas: 
+        "nav nav" 
+        "header new" 
+        "items items";
         column-gap: 1.5rem;
         row-gap: 3rem;
     }
