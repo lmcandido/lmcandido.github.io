@@ -11,11 +11,8 @@ body{
 }
 
 nav{
+    flex-direction: row;
     justify-content: space-between;
-}
-
-.header {
-    display: inline-block;
 }
 
 .navbar{
