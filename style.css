@@ -33,7 +33,7 @@ body{
 
 }
 
-.mainimg{
+.hero{
     background-image: url(../images/image-web-3-mobile.jpg);
     background-repeat: no-repeat;
     background-position: center;
@@ -80,4 +80,14 @@ body{
 .items p{
     color:grey;
     font-weight: 400;
+}
+
+
+@media (min-width: 768px){
+    main{
+        display: grid;
+        grid-template-areas: "nav nav" "header new" "items items";
+        column-gap: 1.5rem;
+        row-gap: 3rem;
+    }
 }
