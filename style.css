@@ -93,3 +93,23 @@ body{
         row-gap: 3rem;
     }
 }
+
+nav {
+    grid-area: nav;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+header {
+    grid-area: header;
+    padding: 0;
+  }
+
+.new {
+    grid-area: new;
+    margin: 0;
+  }
+
+.items {
+    grid-area: items;
+  }
