@@ -113,3 +113,9 @@ header {
 .items {
     grid-area: items;
   }
+
+  @media (min-width: 992px) {
+    .items {
+      grid-template-columns: 3;
+    }
+  }
