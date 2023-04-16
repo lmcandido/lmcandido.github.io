@@ -75,7 +75,11 @@ header a {
 .new h3{
     color: white;
     font-weight: bold;
+}
+
+.new a{
     text-decoration: none;
+    color: white;
 }
 
 .new p{
