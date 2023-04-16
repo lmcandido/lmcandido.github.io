@@ -147,4 +147,5 @@ header {
   nav {
     justify-content: space-between;
     vertical-align: middle;
+    padding-top: 1.25rem;
 }
