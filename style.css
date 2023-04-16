@@ -8,7 +8,6 @@ body{
 }
 
 .header {
-    display: inline-block;
     vertical-align: center;
     justify-content: space-between;
   }
