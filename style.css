@@ -1,13 +1,14 @@
-html{
-    height: 100%;
-    width: 100%;
-}
-
 body{
     background-color: white;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    display: flex;
+    align-items: center;
+}
+
+main{
+    max-width: 1110px;
 }
 
 .header {
@@ -18,7 +19,7 @@ body{
 .navbar{
     font-size: small;
     font-family: Arial, Helvetica, sans-serif;
-    vertical-align: middle;
+    margin-right: 150px;
 }
 
 .navbar a{
@@ -27,6 +28,27 @@ body{
     margin-left: 20px;
     margin-right: 20px;
 
+}
+
+header h1{
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+header p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 26px;
+    color: grey;
+    margin: 1rem 0 1.5rem 0;
+}
+
+header a {
+    text-transform: uppercase;
+    color: white;
+    background-color: red;
+    font-size: small;
 }
 
 .hero{
@@ -103,7 +125,7 @@ header {
   }
 
 .new {
-    grid-area: n sw;
+    grid-area: new;
     margin: 0;
   }
 
@@ -117,7 +139,8 @@ header {
     }
   }
 
-  nav{
+  nav {
     flex-direction: row;
     justify-content: space-between;
+    vertical-align: middle;
 }
