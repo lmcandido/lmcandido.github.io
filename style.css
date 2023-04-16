@@ -8,12 +8,14 @@ body{
 }
 
 .header {
-    display: flex;
+    display: inline-block;
+    vertical-align: center;
     justify-content: space-between;
   }
 
 .navbar{
     font-size: small;
+    vertical-align: center;
     font-family: Arial, Helvetica, sans-serif;
     margin-right: 150px;
 }
