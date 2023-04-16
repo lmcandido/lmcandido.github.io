@@ -22,7 +22,6 @@ main {
     font-size: small;
     align-items: center;
     font-family: Arial, Helvetica, sans-serif;
-    margin-right: 150px;
 }
 
 .navbar a{
@@ -122,7 +121,9 @@ nav {
     grid-area: nav;
     flex-direction: row;
     justify-content: space-between;
-  }
+    vertical-align: middle;
+    padding-top: 1.5rem;
+}
 
 header {
     grid-area: header;
@@ -143,9 +144,3 @@ header {
       grid-template-columns: repeat(3, 1fr);
     }
   }
-
-  nav {
-    justify-content: space-between;
-    vertical-align: middle;
-    padding-top: 1.5rem;
-}
