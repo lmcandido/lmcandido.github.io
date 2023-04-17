@@ -44,6 +44,7 @@ header p {
     line-height: 26px;
     color: grey;
     margin: 1rem 0 1.5rem 0;
+    display: inline-block;
 }
 
 header a {
